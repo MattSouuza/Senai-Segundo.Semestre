@@ -1,0 +1,13 @@
+Microsoft.EntityFrameworkCore.Design (2.1.14)
+
+Microsoft.EntityFrameworkCore.SqlServer (2.1.14)
+
+Microsoft.EntityFrameworkCore.Tools (2.1.14)
+
+System.Data.SqlClient
+
+System.IdentityModel.Tokens.Jwt 
+
+Microsoft.AspNetCore.Authentication.JwtBearer (2.1.1)
+
+Swashbuckle.AspNetCore (Swagger)

@@ -1,0 +1,30 @@
+CREATE DATABASE T_Peoples;
+
+USE T_Peoples;
+
+CREATE TABLE Funcionarios 
+(
+	IdFuncionario	INT IDENTITY PRIMARY KEY
+	,Nome			VARCHAR(200) NOT NULL
+	,Sobrenome		VARCHAR(255)
+);
+GO
+
+ALTER TABLE Funcionarios
+ADD DataNascimento DATE
+
+CREATE TABLE TipoUsuario
+(
+	IdTipoUsuario		INT IDENTITY PRIMARY KEY,
+	TituloTipoUsuario	VARCHAR(200) NOT NULL UNIQUE
+);
+GO
+
+CREATE TABLE Usuario
+(
+	IdUsuario		INT IDENTITY PRIMARY KEY,
+	Nome			VARCHAR(200) NOT NULL UNIQUE,
+	Email			VARCHAR(200) NOT NULL UNIQUE,
+	Senha			VARCHAR(20)  NOT NULL,
+	IdTipoUsuario	INT FOREIGN KEY REFERENCES TipoUsuario (IdTipoUsuario)
+);

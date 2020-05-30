@@ -1,0 +1,28 @@
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.deps.json
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.runtimeconfig.json
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.runtimeconfig.dev.json
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.dll
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.csprojAssemblyReference.cache
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.RazorAssemblyInfo.cache
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.RazorAssemblyInfo.cs
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.AssemblyInfoInputs.cache
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.AssemblyInfo.cs
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.pdb
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.dll
+C:\Users\50090694821\Desktop\Sprint2\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.pdb
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.deps.json
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.runtimeconfig.json
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.dll
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.pdb
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.RazorAssemblyInfo.cache
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.RazorAssemblyInfo.cs
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.dll
+C:\Users\Pichau\Desktop\Sprint 2 - BackEnd\Exercícios\Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WebApi.DataBaseFirst.pdb

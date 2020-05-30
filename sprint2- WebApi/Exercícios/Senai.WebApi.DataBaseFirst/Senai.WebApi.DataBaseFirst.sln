@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.WebApi.DataBaseFirst", "Senai.WebApi.DataBaseFirst\Senai.WebApi.DataBaseFirst.csproj", "{937650E0-AADE-43BE-9BEE-51F4E5F90E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937650E0-AADE-43BE-9BEE-51F4E5F90E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937650E0-AADE-43BE-9BEE-51F4E5F90E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937650E0-AADE-43BE-9BEE-51F4E5F90E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937650E0-AADE-43BE-9BEE-51F4E5F90E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37701AAA-2CA4-4316-9DE5-941639A0B954}
+	EndGlobalSection
+EndGlobal

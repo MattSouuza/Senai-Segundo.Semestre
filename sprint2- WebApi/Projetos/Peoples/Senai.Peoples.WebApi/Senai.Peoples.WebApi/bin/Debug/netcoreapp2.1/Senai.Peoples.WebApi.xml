@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senai.Peoples.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Senai.Peoples.WebApi.Controllers.UsuarioController.Post(Senai.Peoples.WebApi.Domains.UsuarioDomain)">
+            <summary>
+            Efetua Login do usuario
+            </summary>
+            <param name="login">Objeto Lo</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
